@@ -1,0 +1,1 @@
+You push your local repository to the remote repository using the git push command after first establishing a relationship between the two with the git remote add command. If you visit your Github repository, it will show you the URL to use for pushing. You'll first enter something like
